@@ -1,4 +1,4 @@
-<Script>var origPic = null;
+var origPic = null;
 var grayPic = null;
 var redPic = null;
 var bluePic = null;
@@ -202,10 +202,3 @@ function rainbowFilter() {
     } //purple
   } //for
 } //rainbowFilter
-  </script>
-  <script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js">
-
-</script>
-<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimplePixel.js">
-
-</script>
